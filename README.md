@@ -16,6 +16,3 @@ GET Users's exercise log
   { } = required, [ ] = optional
   from, to = dates (yyyy-mm-dd); limit = number
 
-Solution hosted on glitch: https://terrific-fiber.glitch.me
-
-Original Solution: https://fuschia-custard.glitch.me
